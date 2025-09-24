@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Frontend Development: I build user-friendly and dynamic web applications using HTML5, CSS3, JavaScript, React, Next.js, Vue.js, and TypeScript.<br>🗄️ Backend Technologies: I have experience with Node.js, REST APIs, and PostgreSQL for backend development.<br>🎨 UI/UX and Design: I create elegant and user-centric interfaces with frameworks like Material UI, Chakra UI, and Tailwind CSS.<br>🛠️ Project Management and Development: Proficient in Git, GitHub, CI/CD pipelines, and Agile/Scrum methodologies.<br>📊 State Management: Skilled in using state management tools such as Redux Toolkit and Zustand.<br>📈 Continuous Learning: I stay up to date with technology trends and continue to improve my skills in backend and database systems.
+🌐 Frontend Development: I build user-friendly and dynamic web applications using HTML5, CSS3, JavaScript, React, Next.js, Vue.js, and TypeScript.<br>🎨 UI/UX and Design: I create elegant and user-centric interfaces with frameworks like Material UI, Chakra UI, and Tailwind CSS.<br>🛠️ Project Management and Development: Proficient in Git, GitHub, CI/CD pipelines, and Agile/Scrum methodologies.<br>📊 State Management: Skilled in using state management tools such as Redux Toolkit and Zustand.
 
 
 # 💻 Tech Stack:
